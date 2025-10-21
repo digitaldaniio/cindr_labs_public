@@ -8,10 +8,9 @@
 
 ## 🕵️ Currently in Stealth Mode
 
-Cindr Labs is an independent R&D studio developing interoperable systems for fabrication, manufacturing, and construction workflows.
+Cindr Labs is an independent R&D studio developing real systems for fabrication, manufacturing, and construction workflows.
 
-We’re finalizing intellectual property protections and operating in limited pilot environments.  
-Public documentation and technical details will be released following formal filings.
+We’re finalizing our IP protections and operating in limited pilot environments.  
 
 ---
 
@@ -27,20 +26,12 @@ Our systems are already being used by select partners in Los Angeles, helping st
 
 > “Build like a craftsman. Automate like an engineer.”
 
-Cindr Labs exists to make complex, disconnected workflows **usable, auditable, and resilient** — turning legacy processes into modern, verifiable systems.
+Cindr Labs exists to make complex, disconnected workflows **usable, auditable, and resilient** turning legacy processes into modern, verifiable systems.
 
 We believe infrastructure should be:
 - **Deterministic** — repeatable and provable  
-- **Compliant** — privacy- and regulation-aware  
+- **Compliant** — privacy and regulation aware  
 - **Sustainable** — simple enough to maintain, strong enough to scale  
-
----
-
-## 📅 Timeline
-
-- 🗓️ **Nov 2025** – Patent filing & disclosure preparation  
-- 🧩 **Q1 2026** – Controlled beta launches  
-- 🚀 **Q2 2026** – Partner rollouts & analytics suite integration  
 
 ---
 
