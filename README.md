@@ -1,4 +1,4 @@
-# 🧪 Cindr Labs
+# Cindr Labs
 > _Building reliable infrastructure for the next generation of creators, fabricators, and builders._
 
 ![Status](https://img.shields.io/badge/status-stealth_mode-blue)
@@ -6,7 +6,7 @@
 
 ---
 
-## 🕵️ Currently in Stealth Mode
+## Currently in Stealth Mode
 
 Cindr Labs is an independent R&D studio developing real systems for fabrication, manufacturing, and construction workflows.
 
@@ -14,7 +14,7 @@ We’re finalizing our IP protections and operating in limited pilot environment
 
 ---
 
-## 🏭 Proven in Production
+## Proven in Production
 
 Our systems are already being used by select partners in Los Angeles, helping streamline fabrication and service operations through secure, automated infrastructure.
 
@@ -22,7 +22,7 @@ Our systems are already being used by select partners in Los Angeles, helping st
 
 ---
 
-## 🧠 What Drives Us
+## What Drives Us
 
 > “Build like a craftsman. Automate like an engineer.”
 
@@ -35,13 +35,13 @@ We believe infrastructure should be:
 
 ---
 
-## 📬 Contact
+## Contact
 
 Interested in early access, partnership, or collaboration?
 
-- ✉️ **Email:** hello@cindrlabs.com  
-- 🧰 **GitHub:** [@digitaldaniio](https://github.com/digitaldaniio)  
-- 🌐 **Website:** [cindrlabs.com](https://cindrlabs.com) _(coming soon)_
+- **Email:** hello@cindrlabs.com  
+- **GitHub:** [@digitaldaniio](https://github.com/digitaldaniio)  
+- **Website:** [cindrlabs.com](https://cindrlabs.com) _(coming soon)_
 
 ---
 
